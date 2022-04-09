@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# project: dimple firebase auth my
+
+-I am using `yarn add firebase` to make my project.\
+-Here we make two button one is for Google sine in and
+another one is Sine out.\
+-And interesting things is that is i make by reading the documentation.\
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
